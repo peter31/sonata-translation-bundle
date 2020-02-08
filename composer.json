@@ -1,7 +1,7 @@
 {
-    "name": "ibrows/sonata-translation-bundle",
+    "name": "peter31/sonata-translation-bundle",
     "description": "Integration of lexik translation into sonata admin",
-    "keywords": ["ibrows", "lexik", "translation", "sonata"],
+    "keywords": ["lexik", "translation", "sonata"],
     "type": "symfony-bundle",
     "license": "MIT",
     "require": {
